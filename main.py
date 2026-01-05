@@ -5,10 +5,11 @@ from pydub import AudioSegment
 
 
 FILES = [
-    "bob-sinclar-cruel-summer-again.mp3",
-    "Parov Stelar - All Night (Official Audio) _C7UgR_sIW0.m4a",
-    "Rondò Veneziano – La Serenissima.mp3"
-]
+    # "cancion1.mp3",
+    # "cancion2.mp3",
+    # "cancion3.mp3",
+    # ...
+    ]
 
 CROSSFADE_MS = 6000
 OUTPUT_FILE = "DJ_SET_FINAL.mp3"

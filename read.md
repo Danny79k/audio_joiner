@@ -4,7 +4,7 @@ per chi lo deve usare, semplicemente importare i file audio dentro del folder e 
 
 serve python installato
 
-- git clone https://github.com/danny79k/audio_joiner.git
+- git clone https://github.com/Danny79k/audio_joiner
 
 - cd audio_joiner
 
